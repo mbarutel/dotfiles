@@ -30,11 +30,11 @@ decorations_theme_variant = "Dark" # "Dark"
 
 [font]
 
-normal.family = "FiraCode Nerd Font Light"
-bold.family = "FiraCode Nerd Font Light"
-italic.family = "FiraCode Nerd Font Light"
-bold_italic.family = "FiraCode Nerd Font Light"
-size = 8.0
+normal.family = "DepartureMono Nerd Font"
+bold.family = "DepartureMono Nerd Font"
+italic.family = "DepartureMono Nerd Font"
+bold_italic.family = "DepartureMono Nerd Font"
+size = 9.0
 
 [keyboard]
 bindings = [
