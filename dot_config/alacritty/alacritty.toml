@@ -19,17 +19,14 @@
 # https://github.com/alacritty/alacritty/tree/master#configuration
 
 [window]
-
-# opacity = 1
-
+opacity = 0.85
+blur = true
 padding.x = 5
 padding.y = 5
-
 decorations = "Full"
-decorations_theme_variant = "Dark" # "Dark"
+decorations_theme_variant = "Dark"
 
 [font]
-
 normal.family = "DepartureMono Nerd Font"
 bold.family = "DepartureMono Nerd Font"
 italic.family = "DepartureMono Nerd Font"
@@ -53,6 +50,7 @@ bindings = [
 [colors.primary]
 background =  '#181818'
 foreground =  '#b9b9b9'
+
 
 # Normal colors
 [colors.normal]
